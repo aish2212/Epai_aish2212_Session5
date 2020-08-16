@@ -60,8 +60,8 @@ We should be able to call it like this:
     - test whether the readme file have proper formatting 
 
 - test_readme_proper_description
-	- check if readme has all these fields "__and__,  __or__, __repr__, __str__, __add__, __eq__, __float__, __ge__, __gt__, __invertsign__, __le__, __lt__, __mul__, __sqrt__, __bool__"
-
+	- check if readme has all the functions explained.
+	
 - test_indentations
     - check whether the source file have proper indentations and space according to PEP8
 
@@ -69,8 +69,8 @@ We should be able to call it like this:
 	- test if the func name declared properly
 	
 - test_functions_list
-    - test if all the function are declared such as "__and__,  __or__, __repr__, __str__, __add__, __eq__, __float__, __ge__, __gt__, __invertsign__, __le__, __lt__, __mul__, __sqrt__, __bool__"
-	
+    - test if all the function (time_it, squared_power_list, polygon_area, temp_converter, speed_converter)are declared 
+
 - test_time_import_or_not
     - test whether the timer module is imported or not.
 
@@ -124,7 +124,7 @@ We should be able to call it like this:
 	  - km/hr to km/ms 
 	  - km/hr to km/s
 	  - km/hr to km/m 
-	  - km/hr to km/day is proper or not.
+	  - km/hr to km/day are proper or not.
 	  
 - test_speed_converter_metre_ms_s_m_hr_day
     - test speed conversion from 
@@ -132,7 +132,7 @@ We should be able to call it like this:
 	  - km/hr to m/s
 	  - km/hr to m/m 
 	  - km/hr to m/day
-      - km/hr to m/hr is proper or not.
+      - km/hr to m/hr are proper or not.
 	  
 - test_speed_converter_ft_ms_s_m_hr_day
     - test speed conversion from 
@@ -140,7 +140,7 @@ We should be able to call it like this:
 	  - km/hr to ft/s
 	  - km/hr to ft/m 
 	  - km/hr to ft/day 
-	  - km/hr to ft/hr is proper or not.
+	  - km/hr to ft/hr are proper or not.
 	  
 - test_speed_converter_yard_ms_s_m_hr_day
     - test speed conversion from 
@@ -148,4 +148,4 @@ We should be able to call it like this:
 	  - km/hr to yrd/s
 	  - km/hr to yrd/m 
 	  - km/hr to yrd/day 
-	  - km/hr to yrd/hr is proper or not.
+	  - km/hr to yrd/hr are proper or not.
